@@ -1,4 +1,4 @@
-## CHECKER GITHUB
+## BOT COMMENT
 
 <p align="center">
 
